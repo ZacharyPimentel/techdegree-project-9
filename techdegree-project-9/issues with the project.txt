@@ -1,0 +1,2 @@
+clicking the traffic timeline buttons autoscrolls to the top
+my svgs arent properly centered
